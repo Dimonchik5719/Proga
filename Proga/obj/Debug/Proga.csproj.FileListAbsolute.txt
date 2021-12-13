@@ -1,0 +1,11 @@
+C:\Users\Дмитрий\source\repos\Proga\Proga\bin\Debug\Proga.exe.config
+C:\Users\Дмитрий\source\repos\Proga\Proga\bin\Debug\Proga.exe
+C:\Users\Дмитрий\source\repos\Proga\Proga\bin\Debug\Proga.pdb
+C:\Users\Дмитрий\source\repos\Proga\Proga\obj\Debug\Proga.csprojAssemblyReference.cache
+C:\Users\Дмитрий\source\repos\Proga\Proga\obj\Debug\Proga.Form1.resources
+C:\Users\Дмитрий\source\repos\Proga\Proga\obj\Debug\Proga.Form2.resources
+C:\Users\Дмитрий\source\repos\Proga\Proga\obj\Debug\Proga.Properties.Resources.resources
+C:\Users\Дмитрий\source\repos\Proga\Proga\obj\Debug\Proga.csproj.GenerateResource.cache
+C:\Users\Дмитрий\source\repos\Proga\Proga\obj\Debug\Proga.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\Proga\Proga\obj\Debug\Proga.exe
+C:\Users\Дмитрий\source\repos\Proga\Proga\obj\Debug\Proga.pdb
